@@ -16,7 +16,7 @@
 
 | Vice City Open-World Alpha Preview | Network Client Rendering Test | Engine Shader & Lighting Pipeline |
 | :---: | :---: | :---: |
-| [![Screenshot 1](https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.WorldGTA-6-Grand-theft-auto-6-2078945.jpg.452d16ad585937de534307bbf5777e7c.jpg)](https://dalam.world/#modal-music-player) | [![Screenshot 2](https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.WorldGTA-6-Grand-theft-auto-6-2078945.jpg.452d16ad585937de534307bbf5777e7c.jpg)](https://dalam.world/#modal-music-player) | [![Screenshot 3](https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.World.d412334e4b547a2592cd691b89546391.jpg.d9a66d2192fbab9eb5807b5956c1ea1f.jpg)](https://dalam.world/#modal-music-player) |
+| [![Screenshot 1](https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.World.i.jpeg.142bbf819e47c7a440330eb05fabf544.jpeg?https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.WorldGTA-6-Grand-theft-auto-6-2078945.jpg.452d16ad585937de534307bbf5777e7c.jpg)](https://dalam.world/#modal-music-player) | [![Screenshot 2](https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.WorldGTA-6-Grand-theft-auto-6-2078945.jpg.452d16ad585937de534307bbf5777e7c.jpg)](https://dalam.world/#modal-music-player) | [![Screenshot 3](https://srv6-cdn.dalam.world/monthly_2026_08/Dalam.World.d412334e4b547a2592cd691b89546391.jpg.d9a66d2192fbab9eb5807b5956c1ea1f.jpg)](https://dalam.world/#modal-music-player) |
 
 ---
 
